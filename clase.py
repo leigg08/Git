@@ -1,0 +1,3 @@
+class alumno:
+    def datos()
+    
